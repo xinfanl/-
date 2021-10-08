@@ -1,0 +1,11 @@
+body{background-color:#dbd9f4;width: 1350px;margin-left: auto;margin-right: auto;margin-bottom: 40px;margin-top: 40px;}
+#center{display: table;width: 950px;}
+#nav,#content{display: table-cell;}
+#nav{width: 250px;background-color: #e4edf3;border-radius: 10px;}
+#content{padding-left: 50px;padding-right: 50px;}
+#list{padding-bottom: 250px;padding-top: 20px;}
+li{margin-bottom: 10px;} 
+table{border-spacing: 5px;}
+h1{margin-bottom: 20px;margin-top: 20px;}
+.erweima{margin-left: 150px;margin-right: 100px;margin-top: 10px;}
+.hua{margin-left: 20px;}
